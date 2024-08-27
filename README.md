@@ -19,3 +19,4 @@ The data set that contains information about Rockbuster’s film inventory, cust
 ### Data Set Information
 - It’s around 3MB and contains several files.
 - A relationship exists between two tables if a column name is present in both tables.
+- The Data Set can be download [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
