@@ -18,3 +18,6 @@ The data set that contains information about Rockbuster’s film inventory, cust
 - It’s around 3MB and contains several files.
 - A relationship exists between two tables if a column name is present in both tables.
 - The Data Set can be download [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+
+## Final Presentation
+To explore the data-driven insights and visual analysis that address key management questions, please visit the [presentation](https://public.tableau.com/views/RockbusterFinalPresentation_17125820977260/Top15byRevenue?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) in Tableau. These interactive charts provide a comprehensive overview of the findings, helping to inform strategic decisions for the launch of Rockbuster Stealth’s online video rental service.
